@@ -1,1 +1,1 @@
-This is my second try with Git.
+This is my second try with Git. Change.
